@@ -1,2 +1,2 @@
-# Orable_SQL
+# Oracle_SQL
 withHR
